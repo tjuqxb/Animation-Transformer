@@ -1,4 +1,6 @@
-## 1 How to run ##
+This project is a course project focusing on Object Oriented Programming.
+
+### 1 How to run ###
 
 Main class: animator.EasyAnimator  
    Mandatory arguments:  
@@ -10,7 +12,7 @@ Other arguments:
 >    -out      output file  
 
 
-## 2 Main ideas ##
+### 2 Main ideas ###
 Model package uses Attribute as the interface for shape properties which can change over time (e.g., color, size, etc.)  
 It uses AnimateTime as another interface for time.  
 One Element<AnimateTime, Attribute> indicates one state in the animation time line.  
@@ -29,7 +31,7 @@ AnimateOutput interface is the output generated from AnimateModel. It is designe
 For text view and svg view, AnimateOutput contains all information they need to produce an overall text/svg representation.  
 For GUI view and playback view, AnimateOutput contains necessary functions (switch from start to pause or vice versa, switch from looping to not looping or vice versa, reset, etc.) and can generate an AnimateFrame in each tick for them to display.  
 
-## 3. About MVC ##
+### 3. About MVC ###
 **Model**   
 See above.
 
@@ -44,16 +46,16 @@ The constructor of controller only takes one view argument. By invoking transfor
 Controller is also an action listener for GuiView and PlaybackView. For GuiView, it simply updates animate frame in each event. For PlayBackview, event source can also be UI components and controller can invoke AnimateOutput's methods.
 A mouse adapter delegation is also added to controller.
 
-## 4. Changes made in progress ##
+### 4. Changes made in progress ###
 To support TextView and SvgView, I added ShapeOutput and AnimateOutput to model.  
 To support GuiView , I added generate animate frame function to AnimateOutput.  
 To support PlaybackView, I added control(next, start, pause, resume, restart and looping) functions to AnimateOutput.
 
-## 5 Testing ##
+### 5 Testing ###
 I tested AnimateOutput to complete the whole tests.   
 For controller and listener, I tested them with fake view and configured events.
 
-## 6. Files classifications ##
+### 6. Files classifications ###
 **Model:**
 > 	enums: Shapes
 > 	
