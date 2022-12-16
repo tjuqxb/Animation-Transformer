@@ -75,9 +75,9 @@ For controller and listener, I tested them with fake view and configured events.
 > 		interface: IntervalList, Element
 > 		implementation: IntervalListImpl, IntervalListTreeMapImpl, SimpleElement
 > 
-> 	plain data objects(only getters): Interval
+> 	plain data objects(only getters): Interval  
 >                 
->     Utils: Utils.java
+>   Utils: Utils.java
 
 **View:**
 > 	interface: View, TextView, SvgView, GuiView, PlaybackView
