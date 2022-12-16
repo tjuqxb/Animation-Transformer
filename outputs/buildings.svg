@@ -1,0 +1,2233 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 800 800"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect  x="0" y="0" width="800" height="800"
+        fill="rgb(33,94,248)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="1634ms" fill="freeze" from="rgb(33,94,248)" to="rgb(33,94,248)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="1667ms" dur="1333ms" fill="freeze" from="rgb(33,94,248)" to="rgb(16,45,248)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3000ms" dur="3667ms" fill="freeze" from="rgb(16,45,248)" to="rgb(16,45,248)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="0" to="0" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="0" to="0" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="800" to="800" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="800" to="800" />
+  </rect>
+  <rect  x="80" y="424" width="100" height="326"
+        fill="rgb(0,0,0)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(0,0,0)" to="rgb(0,0,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="80" to="80" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="424" to="424" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="326" to="326" />
+  </rect>
+  <rect  x="260" y="365" width="100" height="385"
+        fill="rgb(0,0,0)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(0,0,0)" to="rgb(0,0,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="260" to="260" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="365" to="365" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="385" to="385" />
+  </rect>
+  <rect  x="440" y="375" width="100" height="375"
+        fill="rgb(0,0,0)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(0,0,0)" to="rgb(0,0,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="440" to="440" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="375" to="375" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="375" to="375" />
+  </rect>
+  <rect  x="620" y="445" width="100" height="305"
+        fill="rgb(0,0,0)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(0,0,0)" to="rgb(0,0,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="620" to="620" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="445" to="445" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="305" to="305" />
+  </rect>
+  <rect  x="100" y="850" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="850" to="850" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="850" to="710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="710" to="710" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="140" y="850" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="850" to="850" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="850" to="710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="710" to="710" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="100" y="890" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="890" to="890" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="890" to="670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="670" to="670" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="140" y="890" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="890" to="890" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="890" to="670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="670" to="670" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="100" y="930" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="930" to="930" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="930" to="630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="630" to="630" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="140" y="930" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="2700ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2733ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2900ms" dur="3767ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="930" to="930" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="930" to="630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="630" to="630" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="100" y="970" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="970" to="970" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="970" to="590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="590" to="590" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="140" y="970" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="970" to="970" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="970" to="590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="590" to="590" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="100" y="1010" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1010" to="1010" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1010" to="550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="550" to="550" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="140" y="1010" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="4867ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4900ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="5067ms" dur="1600ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1010" to="1010" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1010" to="550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="550" to="550" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="100" y="1050" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1050" to="1050" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1050" to="510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="510" to="510" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="140" y="1050" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1050" to="1050" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1050" to="510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="510" to="510" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="100" y="1090" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="4867ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4900ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="5067ms" dur="1600ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1090" to="1090" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1090" to="470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="100" to="100" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="470" to="470" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="140" y="1090" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3067ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3100ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3267ms" dur="3400ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1090" to="1090" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1090" to="470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="470" to="470" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="280" y="-750" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-750" to="-750" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-750" to="710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="710" to="710" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="320" y="-750" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3567ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3600ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-750" to="-750" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-750" to="710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="710" to="710" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="280" y="-710" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3134ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3167ms" dur="166ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3333ms" dur="3334ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-710" to="-710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-710" to="670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="670" to="670" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="320" y="-710" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-710" to="-710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-710" to="670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="670" to="670" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="280" y="-670" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-670" to="-670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-670" to="630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="630" to="630" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="320" y="-670" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-670" to="-670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-670" to="630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="630" to="630" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="280" y="-630" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-630" to="-630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-630" to="590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="590" to="590" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="320" y="-630" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="4900ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4933ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="5100ms" dur="1567ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-630" to="-630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-630" to="590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="590" to="590" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="280" y="-590" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-590" to="-590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-590" to="550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="550" to="550" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="320" y="-590" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-590" to="-590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-590" to="550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="550" to="550" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="280" y="-550" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-550" to="-550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-550" to="510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="510" to="510" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="320" y="-550" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3267ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3300ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3467ms" dur="3200ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-550" to="-550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-550" to="510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="510" to="510" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="280" y="-510" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-510" to="-510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-510" to="470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="470" to="470" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="320" y="-510" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-510" to="-510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-510" to="470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="470" to="470" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="280" y="-470" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-470" to="-470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-470" to="430" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="430" to="430" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="320" y="-470" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-470" to="-470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-470" to="430" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="430" to="430" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="280" y="-430" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-430" to="-430" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-430" to="390" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="390" to="390" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="320" y="-430" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-430" to="-430" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-430" to="390" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="320" to="320" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="390" to="390" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="460" y="850" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="4200ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4233ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4400ms" dur="2267ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="850" to="850" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="850" to="710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="710" to="710" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="500" y="850" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="850" to="850" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="850" to="710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="710" to="710" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="460" y="890" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="2734ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2767ms" dur="166ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2933ms" dur="3734ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="890" to="890" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="890" to="670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="670" to="670" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="500" y="890" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="890" to="890" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="890" to="670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="670" to="670" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="460" y="930" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="930" to="930" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="930" to="630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="630" to="630" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="500" y="930" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="930" to="930" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="930" to="630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="630" to="630" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="460" y="970" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="970" to="970" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="970" to="590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="590" to="590" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="500" y="970" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="970" to="970" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="970" to="590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="590" to="590" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="460" y="1010" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1010" to="1010" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1010" to="550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="550" to="550" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="500" y="1010" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3700ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3733ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1010" to="1010" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1010" to="550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="550" to="550" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="460" y="1050" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="4234ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4267ms" dur="166ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4433ms" dur="2234ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1050" to="1050" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1050" to="510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="510" to="510" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="500" y="1050" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1050" to="1050" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1050" to="510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="510" to="510" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="460" y="1090" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1090" to="1090" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1090" to="470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="470" to="470" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="500" y="1090" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3200ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3367ms" dur="3300ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1090" to="1090" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1090" to="470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="470" to="470" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="460" y="1130" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1130" to="1130" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1130" to="430" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="460" to="460" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="430" to="430" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="500" y="1130" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="1130" to="1130" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="1130" to="430" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="500" to="500" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="430" to="430" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="640" y="-750" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-750" to="-750" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-750" to="710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="710" to="710" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="680" y="-750" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="4467ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4500ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4667ms" dur="2000ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-750" to="-750" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-750" to="710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="710" to="710" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="640" y="-710" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3400ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3433ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3600ms" dur="3067ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-710" to="-710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-710" to="670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="670" to="670" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="680" y="-710" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-710" to="-710" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-710" to="670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="670" to="670" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="640" y="-670" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-670" to="-670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-670" to="630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="630" to="630" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="680" y="-670" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-670" to="-670" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-670" to="630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="630" to="630" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="640" y="-630" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="2667ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2700ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-630" to="-630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-630" to="590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="590" to="590" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="680" y="-630" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3934ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3967ms" dur="166ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4133ms" dur="2534ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-630" to="-630" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-630" to="590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="590" to="590" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="640" y="-590" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-590" to="-590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-590" to="550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="550" to="550" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="680" y="-590" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-590" to="-590" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-590" to="550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="550" to="550" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="640" y="-550" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-550" to="-550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-550" to="510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="510" to="510" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="680" y="-550" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3300ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3333ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3500ms" dur="3167ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-550" to="-550" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-550" to="510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="510" to="510" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="640" y="-510" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3267ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3300ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3467ms" dur="3200ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-510" to="-510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-510" to="470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="640" to="640" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="470" to="470" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <rect  x="680" y="-510" width="20" height="20"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="3267ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3300ms" dur="167ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,0)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3467ms" dur="3200ms" fill="freeze" from="rgb(255,255,0)" to="rgb(255,255,0)" />
+    <animate attributeName="x" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="33ms" dur="634ms" fill="freeze" from="-510" to="-510" />
+    <animate attributeName="x" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="667ms" dur="1333ms" fill="freeze" from="-510" to="470" />
+    <animate attributeName="x" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="680" to="680" />
+    <animate attributeName="y" attributeType="XML"
+             begin="2000ms" dur="4667ms" fill="freeze" from="470" to="470" />
+    <animate attributeName="width" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+    <animate attributeName="height" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="20" to="20" />
+  </rect>
+  <ellipse  cx="250" cy="250" rx="50" ry="50"
+        fill="rgb(229,229,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="rgb(229,229,255)" to="rgb(229,229,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="250" to="250" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="250" to="250" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="50" to="50" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="50" to="50" />
+  </ellipse>
+  <ellipse  cx="450" cy="50" rx="50" ry="50"
+        fill="rgb(33,94,248)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="33ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="33ms" dur="1634ms" fill="freeze" from="rgb(33,94,248)" to="rgb(33,94,248)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="1667ms" dur="1333ms" fill="freeze" from="rgb(33,94,248)" to="rgb(16,45,248)" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3000ms" dur="3667ms" fill="freeze" from="rgb(16,45,248)" to="rgb(16,45,248)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="33ms" dur="1634ms" fill="freeze" from="450" to="450" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="33ms" dur="1634ms" fill="freeze" from="50" to="50" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="1667ms" dur="1333ms" fill="freeze" from="450" to="280" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="1667ms" dur="1333ms" fill="freeze" from="50" to="230" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3000ms" dur="3667ms" fill="freeze" from="280" to="280" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3000ms" dur="3667ms" fill="freeze" from="230" to="230" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="50" to="50" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="33ms" dur="6634ms" fill="freeze" from="50" to="50" />
+  </ellipse>
+  <ellipse  cx="226" cy="69" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3600ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3600ms" dur="3067ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3600ms" dur="3067ms" fill="freeze" from="226" to="226" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3600ms" dur="3067ms" fill="freeze" from="69" to="69" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3600ms" dur="3067ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3600ms" dur="3067ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="588" cy="214" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="4000ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="588" to="588" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="214" to="214" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="492" cy="80" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3667ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3667ms" dur="3000ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3667ms" dur="3000ms" fill="freeze" from="492" to="492" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3667ms" dur="3000ms" fill="freeze" from="80" to="80" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3667ms" dur="3000ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3667ms" dur="3000ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="377" cy="289" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3100ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3100ms" dur="3567ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3100ms" dur="3567ms" fill="freeze" from="377" to="377" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3100ms" dur="3567ms" fill="freeze" from="289" to="289" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3100ms" dur="3567ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3100ms" dur="3567ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="711" cy="284" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="2767ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2767ms" dur="3900ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="2767ms" dur="3900ms" fill="freeze" from="711" to="711" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="2767ms" dur="3900ms" fill="freeze" from="284" to="284" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="2767ms" dur="3900ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="2767ms" dur="3900ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="511" cy="263" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3233ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3233ms" dur="3434ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3233ms" dur="3434ms" fill="freeze" from="511" to="511" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3233ms" dur="3434ms" fill="freeze" from="263" to="263" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3233ms" dur="3434ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3233ms" dur="3434ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="532" cy="73" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3067ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="532" to="532" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="73" to="73" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="335" cy="68" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3900ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="335" to="335" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="68" to="68" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="314" cy="150" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="2867ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="314" to="314" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="150" to="150" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="173" cy="284" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="2933ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2933ms" dur="3734ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="2933ms" dur="3734ms" fill="freeze" from="173" to="173" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="2933ms" dur="3734ms" fill="freeze" from="284" to="284" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="2933ms" dur="3734ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="2933ms" dur="3734ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="722" cy="105" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3000ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3000ms" dur="3667ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3000ms" dur="3667ms" fill="freeze" from="722" to="722" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3000ms" dur="3667ms" fill="freeze" from="105" to="105" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3000ms" dur="3667ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3000ms" dur="3667ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="527" cy="267" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="4300ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4300ms" dur="2367ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="4300ms" dur="2367ms" fill="freeze" from="527" to="527" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="4300ms" dur="2367ms" fill="freeze" from="267" to="267" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="4300ms" dur="2367ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="4300ms" dur="2367ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="771" cy="197" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="2867ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="771" to="771" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="197" to="197" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="2867ms" dur="3800ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="769" cy="182" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3767ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="769" to="769" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="182" to="182" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="513" cy="81" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3267ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3267ms" dur="3400ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3267ms" dur="3400ms" fill="freeze" from="513" to="513" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3267ms" dur="3400ms" fill="freeze" from="81" to="81" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3267ms" dur="3400ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3267ms" dur="3400ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="624" cy="152" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3800ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3800ms" dur="2867ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3800ms" dur="2867ms" fill="freeze" from="624" to="624" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3800ms" dur="2867ms" fill="freeze" from="152" to="152" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3800ms" dur="2867ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3800ms" dur="2867ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="494" cy="255" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3533ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="494" to="494" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="255" to="255" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="408" cy="66" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="2967ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="408" to="408" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="66" to="66" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="553" cy="270" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3767ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="553" to="553" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="270" to="270" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3767ms" dur="2900ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="111" cy="200" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3133ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="111" to="111" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="200" to="200" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="740" cy="81" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3433ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3433ms" dur="3234ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3433ms" dur="3234ms" fill="freeze" from="740" to="740" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3433ms" dur="3234ms" fill="freeze" from="81" to="81" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3433ms" dur="3234ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3433ms" dur="3234ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="798" cy="140" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="4200ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4200ms" dur="2467ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="4200ms" dur="2467ms" fill="freeze" from="798" to="798" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="4200ms" dur="2467ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="4200ms" dur="2467ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="4200ms" dur="2467ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="187" cy="128" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="2967ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="187" to="187" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="128" to="128" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="2967ms" dur="3700ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="137" cy="233" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3200ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="137" to="137" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="233" to="233" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="247" cy="156" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="4000ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="247" to="247" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="156" to="156" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="4000ms" dur="2667ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="262" cy="122" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3733ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3733ms" dur="2934ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3733ms" dur="2934ms" fill="freeze" from="262" to="262" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3733ms" dur="2934ms" fill="freeze" from="122" to="122" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3733ms" dur="2934ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3733ms" dur="2934ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="325" cy="272" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3533ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="325" to="325" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="272" to="272" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3533ms" dur="3134ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="415" cy="185" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3900ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="415" to="415" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="185" to="185" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3900ms" dur="2767ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="677" cy="140" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3967ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3967ms" dur="2700ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3967ms" dur="2700ms" fill="freeze" from="677" to="677" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3967ms" dur="2700ms" fill="freeze" from="140" to="140" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3967ms" dur="2700ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3967ms" dur="2700ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="49" cy="249" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3200ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="49" to="49" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="249" to="249" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3200ms" dur="3467ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="391" cy="318" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="4100ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4100ms" dur="2567ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="4100ms" dur="2567ms" fill="freeze" from="391" to="391" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="4100ms" dur="2567ms" fill="freeze" from="318" to="318" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="4100ms" dur="2567ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="4100ms" dur="2567ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="188" cy="239" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="4033ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4033ms" dur="2634ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="4033ms" dur="2634ms" fill="freeze" from="188" to="188" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="4033ms" dur="2634ms" fill="freeze" from="239" to="239" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="4033ms" dur="2634ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="4033ms" dur="2634ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="553" cy="235" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3633ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3633ms" dur="3034ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3633ms" dur="3034ms" fill="freeze" from="553" to="553" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3633ms" dur="3034ms" fill="freeze" from="235" to="235" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3633ms" dur="3034ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3633ms" dur="3034ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="659" cy="104" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3133ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="659" to="659" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="104" to="104" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3133ms" dur="3534ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="286" cy="114" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="2800ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="2800ms" dur="3867ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="2800ms" dur="3867ms" fill="freeze" from="286" to="286" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="2800ms" dur="3867ms" fill="freeze" from="114" to="114" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="2800ms" dur="3867ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="2800ms" dur="3867ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="652" cy="329" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3067ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="652" to="652" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="329" to="329" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3067ms" dur="3600ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="694" cy="270" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3833ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3833ms" dur="2834ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3833ms" dur="2834ms" fill="freeze" from="694" to="694" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3833ms" dur="2834ms" fill="freeze" from="270" to="270" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3833ms" dur="2834ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3833ms" dur="2834ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="116" cy="279" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3300ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="116" to="116" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="279" to="279" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="607" cy="305" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="3300ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="607" to="607" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="305" to="305" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="3300ms" dur="3367ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+  <ellipse  cx="465" cy="165" rx="3" ry="3"
+        fill="rgb(255,255,255)"  visibility="hidden">
+    <animate attributeName="visibility" attributeType="XML"
+             begin="0ms" dur="4233ms" fill="freeze" from="hidden" to="visible" />
+    <animate attributeName="fill" attributeType="XML"
+             begin="4233ms" dur="2434ms" fill="freeze" from="rgb(255,255,255)" to="rgb(255,255,255)" />
+    <animate attributeName="cx" attributeType="XML"
+             begin="4233ms" dur="2434ms" fill="freeze" from="465" to="465" />
+    <animate attributeName="cy" attributeType="XML"
+             begin="4233ms" dur="2434ms" fill="freeze" from="165" to="165" />
+    <animate attributeName="rx" attributeType="XML"
+             begin="4233ms" dur="2434ms" fill="freeze" from="3" to="3" />
+    <animate attributeName="ry" attributeType="XML"
+             begin="4233ms" dur="2434ms" fill="freeze" from="3" to="3" />
+  </ellipse>
+</svg>
