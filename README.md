@@ -50,46 +50,46 @@ To support GuiView , I added generate animate frame function to AnimateOutput.
 To support PlaybackView, I added control(next, start, pause, resume, restart and looping) functions to AnimateOutput.
 
 ## 5 Testing ##
-I tested AnimateOutput to complete the whole tests. 
+I tested AnimateOutput to complete the whole tests.   
 For controller and listener, I tested them with fake view and configured events.
 
 ## 6. Files classifications ##
 **Model:**
-> 	enum:	Shapes
+> 	enums: Shapes
 > 	
-> 	attributes:
-> 		interface: Position, Size, Color, Length
+> 	attributes:  
+> 		interface: Position, Size, Color, Length  
 > 		implementation: SizeRectangle, SizeOval, Position2d, ColorRgb, LengthDouble
 >                 
-> 	main model (inserting shape and motions):
-> 		interface: AnimateShape, AnimateTime
-> 		implementation: AnimateRectangle, AnimateOval, AnimateTimeInt
+> 	main model (inserting shape and motions):  
+> 		interface: AnimateShape, AnimateTime  
+> 		implementation: AnimateRectangle, AnimateOval, AnimateTimeInt  
 > 	
-> 	output model(animation data and playing animation function):
-> 		interface: AnimateOutput, ShapeOutput
-> 		implementation: AnimateOutputImpl, ShapeOutputImpl
+> 	output model(animation data and playing animation function):  
+> 		interface: AnimateOutput, ShapeOutput  
+> 		implementation: AnimateOutputImpl, ShapeOutputImpl  
 > 	
-> 	plain data objects(only getters): AnimateFrame
+> 	plain data objects(only getters): AnimateFrame  
 > 
-> 	generic data structure:
-> 		interface: IntervalList, Element
-> 		implementation: IntervalListImpl, IntervalListTreeMapImpl, SimpleElement
+> 	generic data structure:  
+> 		interface: IntervalList, Element  
+> 		implementation: IntervalListImpl, IntervalListTreeMapImpl, SimpleElement  
 > 
-> 	plain data objects(only getters): Interval  
+> 	plain data objects(only getters): Interval    
 >                 
->   Utils: Utils.java
+>   Utils: Utils.java  
 
 **View:**
-> 	interface: View, TextView, SvgView, GuiView, PlaybackView
+> 	interface: View, TextView, SvgView, GuiView, PlaybackView  
 > 	implementation: TextViewImpl, SvgViewImpl, GuiViewImpl, PlaybackViewImpl
 
 **Controller:**
-> 	interface: Controller
-> 	implementation: ControllerImpl
+> 	interface: Controller  
+> 	implementation: ControllerImpl  
 > 	
-> 	additional: MousePosListener
+> 	additional: MousePosListener  
 
 **Main:**
-> 	EasyAnimator
-> 	Enums: ViewOptions
+> 	EasyAnimator  
+> 	Enums: ViewOptions  
 
